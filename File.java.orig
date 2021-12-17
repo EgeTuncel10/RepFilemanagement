@@ -1,12 +1,10 @@
-<<<<<<< HEAD
-public class File{
-    private int _fileId;
-    
-}
-=======
 public class File{
   private int _fileId;
   private String _fileName;
+  private String _fileSecondName;
+<<<<<<< HEAD
+  private String _fileThirdName;
+=======
+>>>>>>> 193e737902df2611ca752bc0fe52b9273354cbff
   
 }
->>>>>>> f2807768c147ae987301cd871ad501b3c35422dc
