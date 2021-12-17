@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+public class File{
+    private int _fileId;
+    
+}
+=======
+public class File{
+  private int _fileId;
+  private String _fileName;
+  
+}
+>>>>>>> f2807768c147ae987301cd871ad501b3c35422dc
